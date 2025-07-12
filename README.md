@@ -34,8 +34,13 @@ A machine learning-powered **Streamlit web app** that predicts the price of a mo
 
 ## 🗂️ Project Structure
 
-├── app.py # Main Streamlit app
-├── pipe.pkl # Trained ML pipeline
-├── df.pkl # DataFrame for dropdown values
-├── requirements.txt # Python package dependencies
-├── README.md # Project documentation
+├── app.py 
+# Main Streamlit app
+├── pipe.pkl
+# Trained ML pipeline
+├── df.pkl
+# DataFrame for dropdown values
+├── requirements.txt
+# Python package dependencies
+├── README.md
+# Project documentation
